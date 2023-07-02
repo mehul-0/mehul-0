@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mehul-0
-- 👀 I’m interested in Software Development Engineer (Android).
 - 🌱 I’m currently learning Kotlin and different Architectures.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mehulgidwani03@gmail.com
