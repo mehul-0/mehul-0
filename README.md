@@ -85,22 +85,6 @@ Azure • Docker • Docker Compose
 CI/CD • Git • GitHub
 ```
 
-### System Design & Engineering
-
-```text
-Asynchronous Processing
-Message Queues
-Distributed Systems
-Workflow Automation
-Caching Strategies
-Retry Mechanisms
-Fault Tolerance
-Dead-Letter Queues
-Scalable Service Design
-SOLID Principles
-Performance Optimization
-```
-
 ### CAD & 3D Visualization
 
 ```text
@@ -124,21 +108,6 @@ Background Workers
 Job Scheduling
 Task Processing Pipelines
 Event-Driven Workflows
-```
-
-### Specialized Domains
-
-```text
-CAD Integration
-3D Visualization
-Enterprise Architecture
-Workflow Automation
-System Integration
-Backend Architecture
-Performance Engineering
-Engineering Software
-Technical Visualization
-Data-Driven Applications
 ```
 ```
 ## 🎯 Areas of Focus
