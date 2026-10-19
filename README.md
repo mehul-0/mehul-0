@@ -112,6 +112,7 @@ Event-Driven Workflows
 ```
 
 ---
+
 ## 🎯 Areas of Focus
 
 ```mermaid
