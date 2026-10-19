@@ -45,17 +45,6 @@ mindmap
 
 ---
 
-## 📈 Engineering Principles
-
-- Build for scale from day one
-- Keep systems maintainable and observable
-- Optimize only after measuring
-- Automate repetitive workflows
-- Design APIs consumers enjoy using
-- Model data carefully before writing code
-
----
-
 ## 🧠 Currently Exploring
 
 - Cloud-Native Applications
