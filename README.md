@@ -2,7 +2,7 @@
 
 # Hey there 👋 I'm Mehul Gidwani
 
-### Software Developer | Enterprise Applications | CAD Integration | 3D Visualization
+### Software Developer | CAD Integration | 3D Visualization
 
 <p>
 Building enterprise software, scalable backend systems, engineering workflows, and interactive 3D experiences.
