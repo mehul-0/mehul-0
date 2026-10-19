@@ -49,31 +49,81 @@ I've worked on everything from enterprise web applications and workflow automati
 ### Languages
 
 ```text
-JavaScript • TypeScript • C# • SQL
+JavaScript • TypeScript • C# • Java • SQL
 ```
 
 ### Frontend
 
 ```text
-React • Angular • Next.js • HTML • CSS
+React • Angular • Vue.js • Next.js • HTML • CSS
 ```
 
 ### Backend
 
 ```text
-.NET • Node.js • REST APIs • Microservices
+.NET • Node.js
+REST APIs • API Design • Backend Services
+Microservices • Third-Party API Integration
+Service-Oriented Architecture (SOA)
 ```
 
 ### Data & Storage
 
 ```text
 SQL Server • PostgreSQL • MySQL
+MongoDB • Firebase • Redis
+
+Database Design • Data Modeling
+Query Optimization • Persistence Layers
+SQL & NoSQL Architectures
 ```
 
 ### Cloud & DevOps
 
 ```text
-Azure • Docker • CI/CD
+Azure • Docker • Docker Compose
+CI/CD • Git • GitHub
+```
+
+### System Design & Engineering
+
+```text
+Asynchronous Processing
+Message Queues
+Distributed Systems
+Workflow Automation
+Caching Strategies
+Retry Mechanisms
+Fault Tolerance
+Dead-Letter Queues
+Scalable Service Design
+SOLID Principles
+Performance Optimization
+```
+
+### CAD & 3D Visualization
+
+```text
+CAD Integration
+Engineering Workflows
+3D Visualization
+Real-Time Rendering
+Web-Based 3D Experiences
+
+Autodesk Forge Viewer
+NVIDIA Omniverse
+Matterport
+```
+
+### Queueing & Processing
+
+```text
+BullMQ
+Redis Queues
+Background Workers
+Job Scheduling
+Task Processing Pipelines
+Event-Driven Workflows
 ```
 
 ### Specialized Domains
@@ -84,11 +134,13 @@ CAD Integration
 Enterprise Architecture
 Workflow Automation
 System Integration
-Performance Optimization
+Backend Architecture
+Performance Engineering
+Engineering Software
+Technical Visualization
+Data-Driven Applications
 ```
-
----
-
+```
 ## 🎯 Areas of Focus
 
 ```mermaid
