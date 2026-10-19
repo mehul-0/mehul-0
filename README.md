@@ -94,13 +94,11 @@ Performance Optimization
 ```mermaid
 mindmap
   root((Software Engineering))
-    Enterprise Web Applications
     Backend Architecture
     CAD Integration
     3D Visualization
     System Design
     Database Design
-    Performance Optimization
     Workflow Automation
     Cloud Systems
 ```
