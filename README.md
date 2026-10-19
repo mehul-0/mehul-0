@@ -53,16 +53,6 @@ mindmap
 
 ---
 
-## 🌍 Let's Connect
-
-I'm always interested in discussions around:
-
-- Enterprise Software Architecture
-- CAD & Engineering Platforms
-- System Design
-
----
-
 <div align="center">
 
 ### "Good software scales. Great software stays maintainable while scaling."
